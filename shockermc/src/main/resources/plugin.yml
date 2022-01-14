@@ -1,0 +1,7 @@
+name: ShockerMC
+version: 1.0.0
+description: Shocks users when they take damage.
+api-version: 1.18
+authors: [evanpacini, KaspervanM]
+website: https://github.com/evanpacini/ShockerMC
+main: com.espersoft.shockermc.ShockerPlugin
