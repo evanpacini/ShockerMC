@@ -5,11 +5,11 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class ShockerPlugin extends JavaPlugin {
     @Override
     public void onEnable() {
-        getLogger().info("onEnable is called!");
+        getLogger().info("Hello, SpigotMC!");
     }
 
     @Override
     public void onDisable() {
-        getLogger().info("onDisable is called!");
+        getLogger().info("See you again, SpigotMC!");
     }
 }
